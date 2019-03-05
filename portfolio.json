@@ -1,1 +1,1 @@
-{"portfolio": {"marcus": "1,234.56", "vanguard": "6,543.21"}, "lastUpdated": "2019-03-05T20:10:48.976844"}
+{"portfolio": [{"marcus": "1,234.56"}, {"vanguard": "6,543.21"}], "lastUpdated": "2019-03-05T20:10:48.976844"}
